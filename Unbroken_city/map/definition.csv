@@ -3247,7 +3247,7 @@ province;red;green;blue;x;x
 3246;49;150;138;Jan Mayen;x
 3247;52;14;236;West Hawaii;x
 3248;53;14;240;West Magellan Strait;x 
-;54;14;244;x;
+3249;109;16;244;Vaunas;x
 ;55;14;248;x;
 ;56;14;232;x;
 ;57;14;236;x;
@@ -3302,4 +3302,3 @@ province;red;green;blue;x;x
 ;106;16;232;x;
 ;107;16;236;x;
 ;108;16;240;x;
-;109;16;244;x;
