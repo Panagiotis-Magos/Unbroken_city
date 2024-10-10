@@ -20102,21 +20102,15 @@
 
 # La Rochelle
 442 = {
-    unit = {
-        x = 2797.000000
-        y = 1550.000000
-    }
-
     text_position = {
         x = 2798.500000
         y = 1547.900024
     }
 
-    text_rotation = 0.610865
     text_scale = 2.100000
-    building_construction = {
-        x = 2800.300049
-        y = 1554.800049
+    unit = {
+        x = 2797.000000
+        y = 1550.000000
     }
 
     factory = {
@@ -20124,10 +20118,15 @@
         y = 1553.699951
     }
 
+    building_construction = {
+        x = 2800.300049
+        y = 1554.800049
+    }
+
     building_position = {
         fort = {
-            x = 2798.000000
-            y = 1536.000000
+            x = 2799.850000
+            y = 1545.300000
         }
 
         naval_base = {
@@ -20170,25 +20169,25 @@
 
 # Angoulême
 444 = {
+    text_position = {
+        x = 2807.710000
+        y = 1535.335000
+    }
+
+    text_scale = 2.200000
     unit = {
         x = 2810.000000
         y = 1542.000000
     }
 
-    text_position = {
-        x = 2810.000000
-        y = 1538.800049
+    factory = {
+        x = 2799.130000
+        y = 1532.805000
     }
 
-    text_scale = 2.200000
     building_construction = {
         x = 2816.000000
         y = 1543.699951
-    }
-
-    factory = {
-        x = 2802.000000
-        y = 1542.599976
     }
 
     building_position = {
@@ -20197,31 +20196,36 @@
             y = 1533.099976
         }
 
+        naval_base = {
+            x = 2794.200000
+            y = 1536.366667
+        }
+
     }
 
 }
 
 # Limoges
 445 = {
+    text_position = {
+        x = 2825.050000
+        y = 1547.750000
+    }
+
+    text_scale = 1.700000
     unit = {
         x = 2828.000000
         y = 1547.000000
     }
 
-    text_position = {
-        x = 2829.399902
-        y = 1543.599976
-    }
-
-    text_scale = 2.300000
-    building_construction = {
-        x = 2834.600098
-        y = 1542.000000
-    }
-
     factory = {
-        x = 2822.199951
-        y = 1549.699951
+        x = 2821.750000
+        y = 1549.850000
+    }
+
+    building_construction = {
+        x = 2824.300000
+        y = 1543.650000
     }
 
 }
@@ -20486,38 +20490,25 @@
 
 # Valence
 453 = {
+    text_position = {
+        x = 2876.550000
+        y = 1526.400000
+    }
+
+    text_scale = 2.000000
     unit = {
         x = 2880.000000
         y = 1528.000000
     }
 
-    text_position = {
-        x = 2879.800049
-        y = 1527.000000
+    factory = {
+        x = 2879.050000
+        y = 1532.600000
     }
 
-    text_scale = 2.200000
     building_construction = {
         x = 2877.100098
         y = 1524.300049
-    }
-
-    factory = {
-        x = 2885.899902
-        y = 1538.800049
-    }
-
-    spawn_railway_track = {
-        {
-            x = 2870.000000
-            y = 1529.000000
-        }
-
-        {
-            x = 2868.000000
-            y = 1523.000000
-        }
-
     }
 
 }
