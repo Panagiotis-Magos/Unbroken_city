@@ -41828,25 +41828,25 @@
 # Vologda
 989 = {
     text_position = {
-        x = 3425.000000
-        y = 1829.199951
+        x = 3416.775000
+        y = 1842.500000
     }
 
     text_scale = 4.999998
-    building_construction = {
-        x = 3435.000000
-        y = 1822.000000
-    }
-
     factory = {
         x = 3426.000000
         y = 1853.000000
     }
 
+    building_construction = {
+        x = 3419.375000
+        y = 1828.091667
+    }
+
     building_position = {
         fort = {
-            x = 3445.000000
-            y = 1825.000000
+            x = 3416.558333
+            y = 1846.725000
         }
 
     }
@@ -41888,25 +41888,25 @@
 
 # Uglich
 991 = {
+    text_position = {
+        x = 3464.933333
+        y = 1834.800000
+    }
+
+    text_scale = 4.499998
     unit = {
         x = 3466.000000
         y = 1847.000000
     }
 
-    text_position = {
-        x = 3467.000000
-        y = 1835.000000
+    factory = {
+        x = 3455.133333
+        y = 1837.483333
     }
 
-    text_scale = 4.899998
     building_construction = {
         x = 3469.000000
         y = 1822.500000
-    }
-
-    factory = {
-        x = 3457.000000
-        y = 1859.000000
     }
 
     building_position = {
@@ -43262,20 +43262,15 @@
 
 # Kazan
 1030 = {
-    unit = {
-        x = 3563.000000
-        y = 1758.000000
-    }
-
     text_position = {
-        x = 3562.300049
-        y = 1748.500000
+        x = 3549.606667
+        y = 1756.586667
     }
 
     text_scale = 4.199998
-    building_construction = {
-        x = 3576.000000
-        y = 1756.000000
+    unit = {
+        x = 3563.000000
+        y = 1758.000000
     }
 
     factory = {
@@ -43283,24 +43278,29 @@
         y = 1761.000000
     }
 
+    building_construction = {
+        x = 3576.000000
+        y = 1756.000000
+    }
+
 }
 
 # Sarapul
 1031 = {
-    unit = {
-        x = 3623.000000
-        y = 1781.000000
-    }
-
     text_position = {
         x = 3624.000000
         y = 1770.000000
     }
 
     text_scale = 5.399997
-    building_construction = {
-        x = 3618.100098
-        y = 1766.000000
+    unit = {
+        x = 3623.000000
+        y = 1781.000000
+    }
+
+    city = {
+        x = 3631.466667
+        y = 1777.900000
     }
 
     factory = {
@@ -43308,49 +43308,54 @@
         y = 1784.800049
     }
 
+    building_construction = {
+        x = 3618.100098
+        y = 1766.000000
+    }
+
 }
 
 # Chistopol
 1032 = {
     text_position = {
-        x = 3595.000000
-        y = 1731.000000
+        x = 3591.825000
+        y = 1738.263333
     }
 
     text_scale = 3.699999
-    building_construction = {
-        x = 3600.000000
-        y = 1727.000000
-    }
-
     factory = {
         x = 3603.000000
         y = 1749.000000
+    }
+
+    building_construction = {
+        x = 3600.000000
+        y = 1727.000000
     }
 
 }
 
 # Simbirsk
 1033 = {
+    text_position = {
+        x = 3534.706667
+        y = 1728.000000
+    }
+
+    text_scale = 4.399998
     unit = {
         x = 3535.000000
         y = 1731.000000
     }
 
-    text_position = {
-        x = 3537.000000
-        y = 1721.000000
-    }
-
-    text_scale = 4.399998
-    building_construction = {
-        x = 3519.000000
-        y = 1725.000000
-    }
-
     factory = {
         x = 3554.100098
         y = 1724.099976
+    }
+
+    building_construction = {
+        x = 3519.000000
+        y = 1725.000000
     }
 
 }
@@ -43395,30 +43400,30 @@
 
 # Syzran
 1035 = {
-    unit = {
-        x = 3550.000000
-        y = 1704.000000
-    }
-
     text_position = {
-        x = 3550.000000
-        y = 1695.000000
+        x = 3567.880000
+        y = 1705.006667
     }
 
     text_scale = 4.099998
-    building_construction = {
-        x = 3535.100098
-        y = 1698.099976
-    }
-
-    military_construction = {
-        x = 3524.000000
-        y = 1695.000000
+    unit = {
+        x = 3574.380000
+        y = 1709.426667
     }
 
     factory = {
         x = 3565.000000
         y = 1697.500000
+    }
+
+    building_construction = {
+        x = 3554.013333
+        y = 1698.073333
+    }
+
+    military_construction = {
+        x = 3555.920000
+        y = 1707.433333
     }
 
     building_position = {
@@ -43466,25 +43471,25 @@
 
 # Saratov
 1037 = {
+    text_position = {
+        x = 3511.616667
+        y = 1675.733333
+    }
+
+    text_scale = 5.099998
     unit = {
         x = 3511.000000
         y = 1673.000000
     }
 
-    text_position = {
-        x = 3503.000000
-        y = 1662.000000
-    }
-
-    text_scale = 5.099998
-    building_construction = {
-        x = 3507.100098
-        y = 1654.000000
-    }
-
     factory = {
         x = 3497.000000
         y = 1676.000000
+    }
+
+    building_construction = {
+        x = 3507.100098
+        y = 1654.000000
     }
 
     building_position = {
