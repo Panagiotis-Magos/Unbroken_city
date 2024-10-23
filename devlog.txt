@@ -1,0 +1,19 @@
+#Province changes
+2577-Manastir (was in Montenegro)
+722- East of river (was Aquaba)
+800 - South Paphlagonia (was montenegro)
+368 - Cities in Finland (was small city in Denmark)
+3249 - new city for Finland
+3250 - tuat aka oasis for Moroco 
+
+
+#Concepts
+France: Choose degree of original balkanisation. 4 Dutchies is less initial work
+France:The default route is southern unification through Occitania.
+This gives cores on Catalonia, Dauphine, (Vaskonia?)
+Alternate route is northern unification through one of the dutchies. This
+gives cores on Brittany, Picardy, Champagne.
+Maybe all get cores on Champagne?
+Cultures, French-Breton, Occitan-Catalan for sure. Dauphine(?), Picardois(?) for extra claims?
+Maybe let everyone get new claims/accepted pops through events after conquering more stuff.
+How to handle "disaster" scenarios? Through event chains?
