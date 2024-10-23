@@ -907,3 +907,73 @@
 	}
 
 }
+
+#uncolonized in 1836/dominated by the Luba
+#Kalemie (280000/70000 POPS)
+3251 = {
+	aristocrats = {
+		culture = luba
+		religion = animist
+		size = 1100
+	}
+
+	clergymen = {
+		culture = luba
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = luba
+		religion = animist
+		size = 2050
+	}
+
+	soldiers = {
+		culture = luba
+		religion = animist
+		size = 525
+	}
+
+	farmers = {
+		culture = luba
+		religion = animist
+		size = 23925
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = animist
+		size = 350
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = animist
+		size = 200
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = animist
+		size = 950
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = animist
+		size = 27200
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = animist
+		size = 13000
+	}
+}
