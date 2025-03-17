@@ -3022,6 +3022,134 @@
 		size = 7000
 	}
 }
+
+#Santa Catarina (idk)
+2595 = {
+	aristocrats = {
+		culture = brazilian
+		religion = catholic
+		size = 625
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 725
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 175
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 16250
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 4225
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 7000
+	}
+
+}
+
+#Fort Resolution (2000/500 POPS)
+2596 = {
+	aristocrats = {
+		culture = brazilian
+		religion = catholic
+		size = 625
+	}
+
+	clergymen = {
+		culture = brazilian
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = brazilian
+		religion = catholic
+		size = 725
+	}
+
+	soldiers = {
+		culture = brazilian
+		religion = catholic
+		size = 175
+	}
+
+	farmers = {
+		culture = brazilian
+		religion = catholic
+		size = 16250
+	}
+
+	clergymen = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 125
+	}
+
+	farmers = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 4225
+	}
+
+	slaves = {
+		culture = afro_brazilian
+		religion = catholic
+		size = 7000
+	}
+}
+
 #Sao Paulo Region (580000)
 #Under the rule of Brazil 1836
 #Sorocaba (8000/2000 POPS)

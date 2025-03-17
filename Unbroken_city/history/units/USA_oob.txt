@@ -334,30 +334,6 @@ navy = {
 
 }
 
-navy = {
-	name = "1st Reserve Squadron"
-	location = 247
-	ship = {
-		name= "Alabama"
-		type = manowar
-	}
-
-	ship = {
-		name= "Vermont"
-		type = manowar
-	}
-
-	ship = {
-		name= "Virginia"
-		type = manowar
-	}
-
-	ship = {
-		name= "1st Reserve Transport"
-		type = clipper_transport
-	}
-
-}
 
 navy = {
 	name = "2nd Reserve Squadron"

@@ -227,70 +227,7 @@
 		size = 450
 	}
 }
-#Fort Resolution (2000/500 POPS)
-2596 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
 
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 450
-	}
-}
-#Fort Liard (1600/400 POPS)
-2598 = {
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 20
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 360
-	}
-}
 #Arviat (3200/800 POPS)
 43 = {
 	aristocrats = {
@@ -388,39 +325,7 @@
 	}
 
 }
-#Whale Cove (2800/700 POPS)
-2595 = {
-	aristocrats = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
 
-	clergymen = {
-		culture = inuit
-		religion = animist
-		size = 15
-	}
-
-	artisans = {
-		culture = inuit
-		religion = animist
-		size = 35
-	}
-
-	soldiers = {
-		culture = inuit
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = inuit
-		religion = animist
-		size = 630
-	}
-
-}
 #British Columbia Region : 64000
 #uncolonized in 1836
 #Vancouver (12000/3000 POPS)

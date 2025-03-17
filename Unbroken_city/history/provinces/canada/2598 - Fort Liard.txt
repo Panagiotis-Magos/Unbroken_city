@@ -1,3 +1,6 @@
-add_core = CAN
-trade_goods = timber
-life_rating = 15
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = tobacco
+life_rating = 35
+#New Chotta

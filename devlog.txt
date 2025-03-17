@@ -4,7 +4,14 @@
 800 - South Paphlagonia (was montenegro)
 368 - Cities in Finland (was small city in Denmark)
 3249 - new city for Finland
-3250 - tuat aka oasis for Moroco 
+3250 - tuat aka oasis for Moroco
+
+change 2598 to be cherokee homeland?
+Also add a useless Greenland province (2591?)
+
+move 2595,2596 to small brazil state
+
+perhaps split Ligesa in two? perhaps not
 
 
 #Concepts

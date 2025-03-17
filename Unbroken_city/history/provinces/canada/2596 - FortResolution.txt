@@ -1,3 +1,6 @@
-add_core = CAN
-trade_goods = fish
-life_rating = 20
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+#now in south brazil
+trade_goods = fruit
+life_rating = 35
