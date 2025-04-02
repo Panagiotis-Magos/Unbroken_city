@@ -1,2 +1,4 @@
+owner = ARA
+controller = ARA
 trade_goods = grain
 life_rating = 15

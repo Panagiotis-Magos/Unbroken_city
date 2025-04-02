@@ -43,6 +43,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+
+#Nerf/buff as needed, Morocco is supposed to be strong and survive
+#Maybe push more into army reforms
+foreign_training = yes_foreign_training
+foreign_weapons = yes_foreign_weapons
+land_reform = yes_land_reform
+
+# Technology
+flintlock_rifles = 1
+post_nelsonian_thought = 1
+malthusian_thought = 1
+
+
 1861.1.1 = {
 	oob = "/1861/MOR_oob.txt"
 	literacy = 0.08

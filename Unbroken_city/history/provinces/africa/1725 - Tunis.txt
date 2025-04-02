@@ -1,6 +1,7 @@
-owner = TUN
-controller = TUN
-add_core = TUN
+owner = SIC
+controller = SIC
+add_core = SIC
+colonial = 2
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

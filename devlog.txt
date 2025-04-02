@@ -14,7 +14,19 @@ move 2595,2596 to small brazil state
 perhaps split Ligesa in two? perhaps not
 
 
+
+
 #Concepts
+Add a decision to conquer the desert if two points are owned by a civ. Morocoo, Constantine,Nubia,etc
+also add decisions to steal unciv lands (dinka outpost, timbuctu, tuat). Snarky message "what are you going to do about it?"
+
+#add a similar conquest for Ashanti-Dahomey ewe lands
+#allow aquire core on countries with a single state with non-core provinces
+
+#add decision for Kong to later accept senufo, etc for Ashanti with ewe, fon (overkill-who will play them?)
+
+#add mor-spa compromise, maybe similar for Ashanti, Nubia
+
 France: Choose degree of original balkanisation. 4 Dutchies is less initial work
 France:The default route is southern unification through Occitania.
 This gives cores on Catalonia, Dauphine, (Vaskonia?)

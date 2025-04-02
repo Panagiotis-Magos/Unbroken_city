@@ -202,6 +202,16 @@ scandinavian = {
 		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
 		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
 	}
+	knutslander = { 
+		color = { 160 40 180}
+		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
+		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
+		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
+		
+		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
+		Frisvold Hákonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
+		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glücksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
+	}
 	icelandic = { 
 		color = { 80 20 150}
 		first_names = { Agnar Ásgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
@@ -391,6 +401,37 @@ french = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
+	burgundian = {
+        color = {
+            30 30 90
+        }
+        first_names = {
+            Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise
+            Camille Clément Charles Constant Damien David Désiré Didier Edmond Édouard
+            Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric
+            Georges Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore
+            Jacques Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent
+            Léon Léonard Léopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier
+            Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sébastien Sylvain Théophile
+            Victor Vincent Werner
+        }
+
+        last_names = {
+            Allard Barbanson Barthélémy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies
+            Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart
+            d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarmé" "de Bousies"
+            "de Brouckère" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Croÿ" "de Decker" "de Dixmude" "de Gerlache"
+            "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mérode" "de Pelichy" "de Quarre"
+            "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies"
+            "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux
+            Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont Fallon
+            Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry
+            "Huysman d'Annecroix" Jacques Joos Jottrand Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq
+            Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb Orban
+            Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron
+            Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude
+        }
+    }
 	
 }
 
@@ -2218,6 +2259,14 @@ central_african = {
 		last_names = { Nsungu Kukaya Ngombe Muzinga Kabale Konkola Kalombo Mande Nyembo 
 		}
 	}
+    kuba = { #aka Bashong
+        color = {166 72 57}
+        first_names = { Kasongo Umpafu Ilunga Kisula Nday Kitamba Maloba Ndaye Kumwimba Maniema
+        }
+
+        last_names = { Nsungu Kukaya Ngombe Muzinga Kabale Konkola Kalombo Mande Nyembo
+        }
+    }
 	lunda = {
 		color = {142 65 188}
 		first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
@@ -2258,6 +2307,52 @@ central_african = {
 		last_names = { Mussa Mutato Bowelle Makeda Nzinga Sundiata 
 		}
 	}
+}
+
+nubian_african = {
+	leader = african
+	is_overseas = no
+	unit = AfricanGC
+	sudanese = {
+        color = { 58 127 177 }
+        first_names = { 
+			Aaron Abanoub Abderahman Abianos Abisalom Ablarion Abraam
+			Agathon Agathonikos Agathos Androus Anthinos
+			Arsenios Ashraf Athanasios Aziz Biktor Binyamin Bishoi
+			Boutros Danyal Da'oud Ezra Gabri'el Georgios Gawdat Habil
+			Hanri Haroun Ilyas Jerjer Krystafer Lot Matta
+			Mikhael Milad Mina Musa Pamin Tadros Touma
+			Yared Youssef Zaia
+			}
+		
+		last_names = { 
+			Wahba Ghali Boutros Isaac Ramzy Sawiris Nour Saber Massoud Atalla Barakat Beshara Dawoud Gamil el-Kedwany Kelada Malek
+			Nashaat Nasrallah el-Rihani Sayed Sedki Sodhom Erian Bassily Sarofim Stino Saad el-Meskeen Farag Fanous Azer
+			Hanna Youssef Bakhoum Wassef Atiya el-Masri Gabra Girgis Habachi Labib Rizk Youhanna Awad Fawzy Iskandar Khalil
+			Moussa Kamel Moftah
+		}
+		radicalism = 5
+	}
+	copt = {
+        color = { 8 127 177 }
+        first_names = { 
+			Aaron Abanoub Abderahman Abianos Abisalom Ablarion Abraam
+			Agathon Agathonikos Agathos Androus Anthinos
+			Arsenios Ashraf Athanasios Aziz Biktor Binyamin Bishoi
+			Boutros Danyal Da'oud Ezra Gabri'el Georgios Gawdat Habil
+			Hanri Haroun Ilyas Jerjer Krystafer Lot Matta
+			Mikhael Milad Mina Musa Pamin Tadros Touma
+			Yared Youssef Zaia
+			}
+		
+		last_names = { 
+			Wahba Ghali Boutros Isaac Ramzy Sawiris Nour Saber Massoud Atalla Barakat Beshara Dawoud Gamil el-Kedwany Kelada Malek
+			Nashaat Nasrallah el-Rihani Sayed Sedki Sodhom Erian Bassily Sarofim Stino Saad el-Meskeen Farag Fanous Azer
+			Hanna Youssef Bakhoum Wassef Atiya el-Masri Gabra Girgis Habachi Labib Rizk Youhanna Awad Fawzy Iskandar Khalil
+			Moussa Kamel Moftah
+		}
+        radicalism = 5
+    }
 }
 
 east_african = {
@@ -2400,14 +2495,7 @@ east_african = {
 		last_names = { Ibrahim Adeer Hassan Gurey Hirsi Doreh Dekiye Afrah Mujahid Kenadid
 		}
 	}
-	sudanese = {
-		color = {241 241 78}
-		first_names = { Muhammad Abdullah Abbas said Ismail Mansur Rahman Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
-		}
 
-		last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi
-		}
-	}
 	sukuma = {
 		color = {54 167 122} 
 		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth

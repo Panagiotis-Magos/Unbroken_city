@@ -1,2 +1,5 @@
+owner = ROZ
+controller = ROZ
+add_core = ROZ
 trade_goods = iron
 life_rating = 15

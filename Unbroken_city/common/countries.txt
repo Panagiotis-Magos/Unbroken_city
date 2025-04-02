@@ -69,7 +69,7 @@ MOD		= "countries/Modena.txt"
 PAP		= "countries/Papal States.txt"
 PAR		= "countries/Parma.txt"
 SAR		= "countries/Sardinia-Piedmont.txt"
-SIC		= "countries/Two Sicilies.txt"
+SIC		= "countries/Two Sicilies.txt"#rename to ovacritia
 TRE		= "countries/Trieste.txt"
 TUS		= "countries/Tuscany.txt"
 VEN		= "countries/Venice.txt"
@@ -87,13 +87,13 @@ SLV		= "countries/Slovakia.txt"
 SWI		= "countries/Switzerland.txt"
 RUT		= "countries/Ruthenia.txt"
 SIE		= "countries/Siebenburgen.txt"
-UKR		= "countries/Ukraine.txt"
+UKR		= "countries/Ukraine.txt"#rename to Podolia
 CZH		= "countries/Czechoslovakia.txt"
 
 # Balkans
 ALB		="countries/Albania.txt"
 BOS		="countries/Bosnia-Herzegovina.txt"
-BUL		="countries/Bulgaria.txt"
+BUL		="countries/Bulgaria.txt" #rename to bulgaria
 CRE		="countries/Crete.txt"
 CRO		="countries/Croatia.txt"
 CYP		="countries/Cyprus.txt"
@@ -102,10 +102,10 @@ ION		="countries/Ionian Islands.txt"
 MOL		="countries/Moldavia.txt"
 MON		="countries/Montenegro.txt"
 ROM		="countries/Romania.txt"
-SER		="countries/Serbia.txt"
+SER		="countries/Serbia.txt"# rename to slav
 SLO		="countries/Slovenia.txt"
 TUR		="countries/Ottoman Empire.txt"
-WAL		="countries/Wallachia.txt"
+WAL		="countries/Wallachia.txt" #rename to Vlachia
 YUG		="countries/Yugoslavia.txt"
 
 # Africa
@@ -261,8 +261,54 @@ GCO		="countries/Gran Colombia.txt"
 ##HoD
 JAN 	= "countries/JanMayen.txt"
 
+##Unbroken city countries
+
+#West Europe
+BRG		="countries/Burgundy.txt"
+
+#East Europe
+NOV		="countries/Novgorod.txt"
+
+#Pre-Colonial Africa
+KUB		="countries/Kuba.txt"
+LUN        	="countries/Lunda.txt"
+LBA        	="countries/Luba.txt"
+KON        	="countries/Kongo.txt"
+NUB		="countries/Nubia.txt"
+RWA		="countries/Rwanda-Urundi.txt"
+BUG        	="countries/Buganda.txt"
+WRL		="countries/Warsangali.txt"
+AJU		="countries/Ajuran.txt"
+KBO        	="countries/Kanem-Bornu.txt"
+SOM		="countries/Somalia.txt"
+FEZ		="countries/Fezzan.txt"
+LYB		="countries/Libya.txt"
+TSW		="countries/Tswana.txt"
+ROZ		="countries/Rozvi.txt"
+MOS		="countries/Mossi.txt"
+KNG        	="countries/Kong.txt"
+ASH		="countries/Ashanti.txt"
+DAH        	="countries/Dahomey.txt"
+BAM		="countries/Bambara.txt"
+#renamed sokoto to hausaland
+#renamed Algeria to Constantine
+OYO        	="countries/Oyo.txt"
+BEN		="countries/Benin.txt"
+GON		="countries/Begmender.txt"
+TIG        	="countries/Tigray.txt"
+SHW		="countries/Shewa.txt"
+GOJ		="countries/Gojjam.txt"
+WOL		="countries/Wollo.txt"
+
+
+#post-colonial africa
+KNU		="countries/Knutsland.txt"
+
+
+
+
 ##HoD Dominions
-dynamic_tags  = yes # any tags after this is considered dynamic dominions
+dynamic_tags  = no # any tags after this is considered dynamic dominions
 D01		= "countries/D01.txt"
 D02		= "countries/D02.txt"
 D03		= "countries/D03.txt"

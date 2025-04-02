@@ -509,9 +509,9 @@ diplomacy = {
 	
 	GUNBOAT_DIPLOMATIC_COST = 1,
 	GUNBOAT_RELATION_ON_ACCEPT = 1,
-	WARGOAL_JINGOISM_REQUIREMENT = 0.07,
+	WARGOAL_JINGOISM_REQUIREMENT = 0.02,
 
-	LIBERATE_STATE_RELATION_INCREASE = 50,
+	LIBERATE_STATE_RELATION_INCREASE = 100,
 	DISHONORED_CALLALLY_PRESTIGE_PENALTY = -3,
 	BASE_TRUCE_MONTHS = 60,
 	MAX_INFLUENCE = 100,
@@ -672,7 +672,7 @@ pops = {
 	
 	POP_TO_LEADERSHIP = 0.0001, -- how much leadership every 1000 officers gives each day.
 	ARTISAN_MIN_PRODUCTIVITY = 1, -- Minimum efficieny of an artisan
-	SLAVE_GROWTH_DIVISOR = 10, -- Slaves have N times lower growth
+	SLAVE_GROWTH_DIVISOR = 2, -- Slaves have N times lower growth
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxuary goods
@@ -727,8 +727,8 @@ ai =
 	PEACE_ALLY_WAR_EXHAUSTION_MULT = 1.0, -- Multiplies PEACE_WAR_EXHAUSTION_FACTOR for allies in a war
 	PEACE_ALLY_WAR_DIRECTION_MULT = 0, -- Multiplies PEACE_WAR_DIRECTION_FACTOR for allies in a war
 	PEACE_ALLY_FORCE_BALANCE_MULT = 0, -- Multiplies PEACE_FORCE_BALANCE_FACTOR for allies in a war
-	AGGRESSION_BASE = 5, -- general AI aggression
-	AGGRESSION_UNCIV_BONUS = 10, -- additional AI civ aggression against uncivs
+	AGGRESSION_BASE = 10, -- general AI aggression
+	AGGRESSION_UNCIV_BONUS = 20, -- additional AI civ aggression against uncivs
 	FLEET_SIZE = 30, -- AI will attempt to keep fleets of roughly this size (fewer fleets generally results in more competent naval AI)
 	MIN_FLEETS = 1, -- Minimum amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)
 	MAX_FLEETS = 10, -- Maximal amount of main fleets the AI will divide its navy into (does not include specialized fleets such as blockades and naval invasions)

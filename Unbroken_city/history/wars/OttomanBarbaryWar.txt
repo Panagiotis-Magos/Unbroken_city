@@ -1,8 +1,8 @@
-name = "Ottoman Restoration of Tripoli"
+#name = "War of Northern Aggression"
 
-1835.10.2 = {
-	add_attacker = TUR
-	add_defender = TRI
+1861.6.30 = {
+	add_attacker = USA
+	add_defender = CSA
 	
 	# actor
 	# receiver
@@ -10,14 +10,14 @@ name = "Ottoman Restoration of Tripoli"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
-		casus_belli = conquest
-		actor = TUR
-		receiver = TRI
+		casus_belli = civil_war
+		actor = USA
+		receiver = CSA
+	}
+	war_goal = {
+		casus_belli = status_quo
+		actor = CSA
+		receiver = USA
 	}
 
-}
-
-1836.6.6 = {
-	rem_attacker = TUR
-	rem_defender = TRI
 }

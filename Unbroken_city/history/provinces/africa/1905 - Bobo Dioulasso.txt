@@ -1,2 +1,3 @@
+add_core = MOS
 trade_goods = grain
 life_rating = 15

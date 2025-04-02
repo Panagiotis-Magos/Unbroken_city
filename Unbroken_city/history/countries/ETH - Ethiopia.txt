@@ -1,6 +1,8 @@
 capital = 1852
 primary_culture = amhara
 culture = oromo
+culture = tigray
+culture = afar
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0

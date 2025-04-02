@@ -1,6 +1,6 @@
-owner = TRI
-controller = TRI
-add_core = TRI
+owner = FEZ
+controller = FEZ
+add_core = FEZ
 trade_goods = fruit
 life_rating = 25
 1861.1.1 = {

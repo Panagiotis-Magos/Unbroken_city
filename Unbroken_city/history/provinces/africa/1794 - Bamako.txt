@@ -1,2 +1,5 @@
+owner = BAM
+controller = BAM
+add_core = BAM
 trade_goods = fruit
 life_rating = 15
