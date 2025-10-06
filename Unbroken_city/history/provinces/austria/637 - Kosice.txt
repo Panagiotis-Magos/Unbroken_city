@@ -1,8 +1,5 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = SLV
-add_core = HUN
-add_core = CZH
+owner = POL
+controller = POL
+add_core=POL
 trade_goods = coal
 life_rating = 35

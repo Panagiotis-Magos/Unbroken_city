@@ -1,7 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = YUG
-add_core = CRO
+owner = BYZ
+controller = BYZ
+add_core=BYZ
+add_core=ALB
 trade_goods = fish
 life_rating = 35

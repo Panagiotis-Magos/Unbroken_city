@@ -1,5 +1,5 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = BAV
+controller = BAV
+add_core=BAV
 trade_goods = cattle
 life_rating = 40

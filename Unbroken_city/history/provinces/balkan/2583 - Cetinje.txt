@@ -1,6 +1,6 @@
-owner = MON
-controller = MON
-add_core = MON
-add_core = YUG
+owner = BYZ
+controller = BYZ
+add_core=BYZ
+add_core=ALB
 trade_goods = fruit
 life_rating = 35

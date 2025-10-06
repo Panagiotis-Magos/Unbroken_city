@@ -265,6 +265,7 @@ JAN 	= "countries/JanMayen.txt"
 
 #West Europe
 BRG		="countries/Burgundy.txt"
+OCC 		="countries/Occitania.txt"
 
 #East Europe
 NOV		="countries/Novgorod.txt"

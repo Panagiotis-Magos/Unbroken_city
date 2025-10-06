@@ -1,5 +1,5 @@
-owner = ABU
-controller = ABU
-add_core = ABU
+owner = ARA
+controller = ARA
+add_core=ARA
 trade_goods = grain
 life_rating = 35

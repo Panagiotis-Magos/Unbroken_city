@@ -1,7 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = CRO
+owner = BAV
+controller = BAV
+add_core=BAV
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { 

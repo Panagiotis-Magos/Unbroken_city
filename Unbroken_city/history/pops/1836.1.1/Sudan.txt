@@ -4,68 +4,45 @@
 1827 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 650
 	}
 
-	bureaucrats = {
-		culture = sudanese
-		religion = sunni
-		size = 40
-	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
-		size = 110
+		religion = coptic
+		size = 310
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
-		size = 425
+		religion = coptic
+		size = 1025
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 2125
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 4000
+		religion = coptic
+		size = 6000
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 35150
+		religion = coptic
+		size = 49800
 	}
 
 	bureaucrats = {
-		culture = misri
-		religion = sunni
-		size = 50
-	}
-
-	officers = {
-		culture = misri
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = misri
-		religion = sunni
+		culture = sudanese
+		religion = coptic
 		size = 300
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 275
 	}
 
 	clergymen = {
@@ -74,65 +51,42 @@
 		size = 150
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 800
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 14650
-	}
 
 	slaves = {
 		culture = african_minor
 		religion = animist
-		size = 22000
-	}
-
-	slaves = {
-		culture = dinka
-		religion = animist
-		size = 5000
+		size = 27000
 	}
 }
 #Wadi Madani (136000/34000 POPS)
 1828 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 375
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 225
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 1150
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 1100
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 20250
 	}
 
@@ -152,32 +106,32 @@
 1829 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 400
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 225
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 1150
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 1100
+		religion = coptic
+		size = 3100
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 20225
+		religion = coptic
+		size = 30225
 	}
 
 	aristocrats = {
@@ -215,61 +169,31 @@
 		religion = animist
 		size = 9000
 	}
-
-	aristocrats = {
-		culture = beja
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = beja
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = beja
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = beja
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = beja
-		religion = sunni
-		size = 3625
-	}
 }
 #Sennar (160000/40000 POPS)
 1830 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
-		size = 475
+		religion = coptic
+		size = 775
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
-		size = 250
+		religion = coptic
+		size = 1250
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 1350
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 1100
+		religion = coptic
+		size = 1500
 	}
 
 	farmers = {
@@ -278,64 +202,10 @@
 		size = 21925
 	}
 
-	aristocrats = {
-		culture = african_minor
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = african_minor
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = african_minor
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = african_minor
-		religion = animist
-		size = 4625
-	}
-
 	slaves = {
 		culture = african_minor
 		religion = animist
 		size = 2000
-	}
-
-	aristocrats = {
-		culture = dinka
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = dinka
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = dinka
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = dinka
-		religion = animist
-		size = 75
 	}
 
 	farmers = {
@@ -348,20 +218,20 @@
 1831 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 350
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
-		size = 200
+		religion = coptic
+		size = 600
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
-		size = 975
+		religion = coptic
+		size = 1975
 	}
 
 	soldiers = {
@@ -372,44 +242,14 @@
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 17475
-	}
-
-	aristocrats = {
-		culture = dinka
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = dinka
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = dinka
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = dinka
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = dinka
-		religion = animist
-		size = 7275
+		religion = coptic
+		size = 21475
 	}
 
 	slaves = {
 		culture = african_minor
 		religion = animist
-		size = 4000
+		size = 8000
 	}
 }
 #Fashoda (132000/33000 POPS)  
@@ -442,36 +282,6 @@
 		culture = nuer
 		religion = animist
 		size = 13675
-	}
-
-	aristocrats = {
-		culture = dinka
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = dinka
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = dinka
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = dinka
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = dinka
-		religion = animist
-		size = 6375
 	}
 
 	aristocrats = {
@@ -510,44 +320,44 @@
 1833 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 75
 	}
 
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 25
 	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 25
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 50
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 200
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 50
+		religion = coptic
+		size = 300
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 3575
+		religion = coptic
+		size = 7575
 	}
 
 	aristocrats = {
@@ -580,36 +390,6 @@
 		size = 6375
 	}
 
-	aristocrats = {
-		culture = beja
-		religion = sunni
-		size = 25
-	}
-
-	clergymen = {
-		culture = beja
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = beja
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = beja
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = beja
-		religion = sunni
-		size = 1800
-	}
-
 	slaves = {
 		culture = african_minor
 		religion = animist
@@ -620,32 +400,32 @@
 1834 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 100
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 50
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 300
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 75
+		religion = coptic
+		size = 275
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 5475
+		religion = coptic
+		size = 9475
 	}
 
 	aristocrats = {
@@ -674,36 +454,6 @@
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = beja
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = beja
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = beja
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = beja
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = beja
 		religion = sunni
 		size = 2700
 	}
@@ -714,74 +464,50 @@
 1835 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
+		religion = coptic
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = sudanese
-		religion = sunni
-		size = 10
+		religion = coptic
+		size = 1010
 	}
 
 	officers = {
 		culture = sudanese
-		religion = sunni
-		size = 40
+		religion = coptic
+		size = 150
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
-		size = 75
+		religion = coptic
+		size = 375
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
-		size = 150
+		religion = coptic
+		size = 450
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 75
+		religion = coptic
+		size = 1075
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 2600
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 150
+		religion = coptic
+		size = 13000
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 12775
+		size = 2775
 	}
 
 	slaves = {
@@ -789,219 +515,69 @@
 		religion = animist
 		size = 3000
 	}
-
-	aristocrats = {
-		culture = beja
-		religion = sunni
-		size = 15
-	}
-
-	clergymen = {
-		culture = beja
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = beja
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = beja
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = beja
-		religion = sunni
-		size = 900
-	}
 }
 #Hayya (104000/26000 POPS)
 1836 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
-		size = 75
+		religion = coptic
+		size = 375
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
-		size = 50
+		religion = coptic
+		size = 450
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
-		size = 200
+		religion = coptic
+		size = 1500
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 50
+		religion = coptic
+		size = 3100
 	}
 
 	farmers = {
 		culture = sudanese
-		religion = sunni
-		size = 3625
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3600
-	}
-
-	aristocrats = {
-		culture = beja
-		religion = sunni
-		size = 325
-	}
-
-	clergymen = {
-		culture = beja
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = beja
-		religion = sunni
-		size = 900
-	}
-
-	soldiers = {
-		culture = beja
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = beja
-		religion = sunni
-		size = 16400
+		religion = coptic
+		size = 17625
 	}
 }
 #Atbarah (40000/1000 POPS)
 1837 = {
 	aristocrats = {
 		culture = sudanese
-		religion = sunni
-		size = 15
+		religion = coptic
+		size = 50
 	}
 
 	clergymen = {
 		culture = sudanese
-		religion = sunni
-		size = 25
+		religion = coptic
+		size = 250
 	}
 
 	artisans = {
 		culture = sudanese
-		religion = sunni
-		size = 50
+		religion = coptic
+		size = 250
 	}
 
 	soldiers = {
 		culture = sudanese
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = sudanese
-		religion = sunni
-		size = 900
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
+		religion = coptic
 		size = 300
 	}
 
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
 	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 5475
-	}
-
-	aristocrats = {
-		culture = beja
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = beja
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = beja
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = beja
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = beja
-		religion = sunni
-		size = 2700
+		culture = sudanese
+		religion = coptic
+		size = 5900
 	}
 }
 #Salima (8000/2000 POPS)

@@ -1,5 +1,5 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = ARA
+controller = ARA
+add_core=ARA
 trade_goods = grain
 life_rating = 35

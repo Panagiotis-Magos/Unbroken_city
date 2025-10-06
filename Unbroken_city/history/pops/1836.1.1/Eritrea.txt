@@ -3,45 +3,33 @@
 #Massawa (28000/7000 POPS)  
 1849 = {
 	aristocrats = {
-		culture = tigray
-		religion = sunni
+		culture = sudanese
+		religion = coptic
 		size = 50
 	}
 
 	clergymen = {
-		culture = tigray
-		religion = sunni
+		culture = sudanese
+		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = tigray
-		religion = sunni
+		culture = sudanese
+		religion = coptic
 		size = 150
 	}
 
 	soldiers = {
-		culture = tigray
-		religion = sunni
+		culture = sudanese
+		religion = coptic
 		size = 25
 	}
 
 	farmers = {
-		culture = tigray
-		religion = sunni
+		culture = sudanese
+		religion = coptic
 		size = 2700
-	}
-
-	bureaucrats = {
-		culture = misri
-		religion = sunni
-		size = 5
-	}
-
-	soldiers = {
-		culture = misri
-		religion = sunni
-		size = 20
 	}
 
 	aristocrats = {
@@ -214,31 +202,31 @@
 #Akordat (28000/7000 POPS)  
 1850 = {
 	aristocrats = {
-		culture = tigray
+		culture = sudanese
 		religion = coptic
 		size = 125
 	}
 
 	clergymen = {
-		culture = tigray
+		culture = sudanese
 		religion = coptic
 		size = 75
 	}
 
 	artisans = {
-		culture = tigray
+		culture = sudanese
 		religion = coptic
 		size = 350
 	}
 
 	soldiers = {
-		culture = tigray
+		culture = sudanese
 		religion = coptic
-		size = 75
+		size = 575
 	}
 
 	farmers = {
-		culture = tigray
+		culture = sudanese
 		religion = coptic
 		size = 6375
 	}

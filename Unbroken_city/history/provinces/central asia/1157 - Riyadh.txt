@@ -1,5 +1,5 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = ARA
+controller = ARA
+add_core=ARA
 trade_goods = wool
 life_rating = 10

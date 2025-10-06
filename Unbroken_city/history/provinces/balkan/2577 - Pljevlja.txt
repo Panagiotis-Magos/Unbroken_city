@@ -1,0 +1,6 @@
+owner = BYZ
+controller = BYZ
+add_core=BYZ
+#this has been renamed so that the game thinks its the same file
+trade_goods = iron
+life_rating = 35
